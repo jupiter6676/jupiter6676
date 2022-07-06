@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jupiter667648@gmail.com
 
 
-
-![농담곰](README.assets/농담곰.png)
+<center>
+	![농담곰](README.assets/농담곰.png)
+</center>
 
 
 
