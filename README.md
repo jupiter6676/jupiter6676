@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 밑에 거만 하는 데에도 1시간 걸렸네
 
 
-<center>
+<p align="center">
 	<img src = "README.assets/농담곰.png">
-</center>
+</p>
 
 
 <table>
