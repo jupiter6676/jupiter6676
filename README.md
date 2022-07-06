@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 - 나중에 차근차근 채워봐야지..
 - 밑에 거만 하는 데에도 1시간 걸렸네
 
-<center>
-    <img src = README.assets/농담곰.png>
-</center>
+<img align="center" src = "README.assets/농담곰.png">
+
 
 
 <table>
