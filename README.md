@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**About me**
+
+- 🌱 I’m currently learning **Unity**
+- 📫 How to reach me: jupiter667648@gmail.com
+
+
+
+![농담곰](README.assets/농담곰.png)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jupiter6676&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jupiter6676&layout=compact&theme=dracula)
