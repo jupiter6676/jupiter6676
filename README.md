@@ -18,17 +18,18 @@ Here are some ideas to get you started:
 - 나중에 차근차근 채워봐야지..
 - 밑에 거만 하는 데에도 1시간 걸렸네
 
-
 <p align="center">
-	<img src = "README.assets/농담곰.png">
+    <img src = "README.assets/농담곰.png">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jupiter6676)](https://solved.ac/jupiter6676/)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jupiter6676">
+
+<img align='right' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jupiter6676">
 
 <table>
-	<thead>
-		<tr>
-			<th><img align="center" src="https://github-readme-stats.vercel.app/api?username=jupiter6676&show_icons=true&theme=dracula" style="max-width: 100%;"></th>				<th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupiter6676&layout=compact&theme=dracula" style="max-width: 100%;"></th>
-		</tr>
-	</thead>
+    <thead>
+        <tr>
+            <th><img align="center" src="https://github-readme-stats.vercel.app/api?username=jupiter6676&show_icons=true&theme=dracula" style="max-width: 100%;"></th>                <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupiter6676&layout=compact&theme=dracula" style="max-width: 100%;"></th>
+        </tr>
+    </thead>
 </table>
