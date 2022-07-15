@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 	<img src = "README.assets/농담곰.png">
 </p>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jupiter6676)](https://solved.ac/jupiter6676/)
 
 <table>
 	<thead>
