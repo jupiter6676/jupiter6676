@@ -22,9 +22,12 @@ Here are some ideas to get you started:
     <img src = "README.assets/농담곰.png">
 </p>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jupiter6676">
 
-<img align='right' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jupiter6676">
+테스트.. 정렬은 나중에 테이블로 고쳐야지
+골드
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jupiter6676">
+
+<img align='center' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jupiter6676">
 
 <table>
     <thead>
