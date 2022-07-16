@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 테스트.. 정렬은 나중에 테이블로 고쳐야지
-골드
+골드 가고싶다
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jupiter6676">
 
 <img align='center' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jupiter6676">
