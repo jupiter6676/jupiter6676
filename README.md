@@ -40,7 +40,7 @@ jupiter667648@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jupiter6676&layout=compact&theme=default" style="max-width: 100%;">
 
 
-<br/><br/>
+<br/>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:CDEDFF,100:89C2FF&height=120&section=footer)
 
