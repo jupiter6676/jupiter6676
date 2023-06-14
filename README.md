@@ -22,7 +22,6 @@ jupiter667648@gmail.com
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&&logo=unity&logoColor=black"/>
 <br/><br/>
